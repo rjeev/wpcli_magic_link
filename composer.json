@@ -1,5 +1,5 @@
 {
-    "name": "vijars/wpcli-magicloginlink",
+    "name": "rjeev/wpcli_magic_link",
     "type": "wp-cli-package",
     "description": "",
     "license": "MIT",
